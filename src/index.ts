@@ -13,8 +13,8 @@ const messageLength: { [key in Encoding]: number } = {
 };
 
 const multiMessageLength: { [key in Encoding]: number } = {
-  GSM_7BIT: 153,
-  GSM_7BIT_EXT: 153,
+  GSM_7BIT: 140,
+  GSM_7BIT_EXT: 140,
   UTF16: 67,
 };
 
